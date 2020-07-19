@@ -102,5 +102,5 @@ and meant it was not always the best measure of model accuracy.
 
 ## Contact Me
 * If you want to contact me, [you can do that here](https://www.linkedin.com/in/carter-b-159ab6a1/).  
-* Or at carterbouley@gmail.com
+* Or at carterbouley@gmail.com.
 * Feel free to contact team leads with any questions or if you are interested in contributing!
