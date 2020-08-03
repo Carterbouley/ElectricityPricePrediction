@@ -55,7 +55,7 @@ regression trees and neural networks.
 Neural networks were run on google collab due to increased spead thanks to the inbuild TPU. The results (predictions) were
 downloaded as CSV for analysis within jupyter notebooks.
 
-This led to models that from any hour, intook 168 hours of the past (1 week) as inputs of all the variables, and outputted
+This led to models that from any hour intook 168 hours of the past (1 week) as inputs of all the variables, and outputted
 a 24 hour prediction.
 
 The measure of accuracy used was MAPE. This was used because it is generally easy to interpret as the average error rate,
